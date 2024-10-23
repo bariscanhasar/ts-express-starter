@@ -1,15 +1,18 @@
 ## Installation
 
 1. Clone the repository:
+
 ```bash
-git clone <repository-url>
-cd <project-name>
+git clone git@github.com:bariscanhasar/ts-express-starter.git
+cd ts-express-starter
 ```
 
 2. Install dependencies:
+
 ```bash
 npm install
 ```
+
 ## Available Scripts
 
 - `npm run dev` - Start the development server with hot reload
@@ -34,6 +37,7 @@ npm install
 ## Development
 
 1. Start the development server:
+
 ```bash
 npm run dev
 ```
