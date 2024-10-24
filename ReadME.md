@@ -3,8 +3,9 @@
 1. Clone the repository:
 
 ```bash
-git clone git@github.com:bariscanhasar/ts-express-starter.git
-cd ts-express-starter
+git clone git clone git@github.com:bariscanhasar/ts-node-things.git
+cd ts-node-things
+git branch shell-script-runner
 ```
 
 2. Install dependencies:
